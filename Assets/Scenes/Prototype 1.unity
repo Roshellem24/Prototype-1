@@ -190,7 +190,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 126218, guid: da59e5a3713884d4f9e9667c2befa1a4, type: 3}
       propertyPath: m_Name
-      value: Veh_Bus_Blue_Z
+      value: 'Vehicle '
       objectReference: {fileID: 0}
     - target: {fileID: 466222, guid: da59e5a3713884d4f9e9667c2befa1a4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -313,13 +313,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0.024201706, y: 0.038684353, z: -0.006434151, w: 0.9989376}
+  m_LocalRotation: {x: 0.024525404, y: 0.02910791, z: 0.0064643407, w: 0.9992545}
   m_LocalPosition: {x: 1.7, y: 2.25, z: -12.51}
   m_LocalScale: {x: 0, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 2.8, y: 4.42, z: -0.63}
+  m_LocalEulerAnglesHint: {x: 2.788, y: 3.357, z: 0.823}
 --- !u!1001 &734973766
 PrefabInstance:
   m_ObjectHideFlags: 0
